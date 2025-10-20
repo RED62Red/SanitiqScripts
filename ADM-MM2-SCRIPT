@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://arko.lol/loadingscreen.lua", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RED62Red/SanitiqScripts/refs/heads/main/ADM-MM2-SCRIPT"))()
+loadstring(game:HttpGet("https://paste.debian.net/plainh/b82fbcdb/", true))()
